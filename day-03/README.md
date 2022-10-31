@@ -1,4 +1,6 @@
-# Day 3 – Operators and Conditions
+# ⚡️Day 3 – Operators and Conditions
+
+In the first 15 days of the **100 Days of Swift** course, I discover the basics of Swift language on Xcode Playgrounds. Here are the topics I learned today:
 
 1. Arithmetic Operators
 2. Operator overloading
