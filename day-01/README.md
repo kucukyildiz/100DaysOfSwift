@@ -1,4 +1,6 @@
-# Day 1 – Variables, Simple Data Types, and String Interpolation
+# ⚡️Day 1 – Variables, Simple Data Types, and String Interpolation
+
+In the first 15 days of the **100 Days of Swift** course, I discover the basics of Swift language on Xcode Playgrounds. Here are the topics I learned today:
 
 1. Variables
 2. Strings and integers
