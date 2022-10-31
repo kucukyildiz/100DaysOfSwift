@@ -1,4 +1,6 @@
-# Day 2 – Arrays, Dictionaries, Sets, and Enums
+# ⚡️Day 2 – Arrays, Dictionaries, Sets, and Enums
+
+In the first 15 days of the **100 Days of Swift** course, I discover the basics of Swift language on Xcode Playgrounds. Here are the topics I learned today:
 
 1. Arrays
 2. Sets
